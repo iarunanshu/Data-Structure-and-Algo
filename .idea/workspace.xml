@@ -4,26 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6186d70-70e8-4d69-b261-21c0ce452eb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/greedy/MinimumNumberOfcoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/GenerateSubset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/JosephsProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/NaturalNumberSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/PalindromeCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/PrintNto1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/RopeCuttingProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/SubsetSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/SumOfDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/TowerOfHanoi.java" afterDir="false" />
-    </list>
+    <list default="true" id="e6186d70-70e8-4d69-b261-21c0ce452eb9" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
