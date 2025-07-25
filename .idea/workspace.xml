@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6186d70-70e8-4d69-b261-21c0ce452eb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/greedy/MinimumNumberOfcoin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/GenerateSubset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/JosephsProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/NaturalNumberSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/PalindromeCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/PrintNto1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/RopeCuttingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/SubsetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/SumOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/recurrsion/TowerOfHanoi.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="30Ix0kjMy7Ri2lxmdfRjhWuq30G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.GenerateSubset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JosephsProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NaturalNumberSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNto1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RopeCuttingProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubsetSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TowerOfHanoi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Permutation">
+    <configuration name="GenerateSubset" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arunanshu.recurrsion.GenerateSubset" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arunanshu.recurrsion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JosephsProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arunanshu.recurrsion.JosephsProblem" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arunanshu.recurrsion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Permutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arunanshu.recurrsion.Permutation" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arunanshu.recurrsion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubsetSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arunanshu.recurrsion.SubsetSum" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arunanshu.recurrsion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arunanshu.recurrsion.TowerOfHanoi" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arunanshu.recurrsion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Permutation" />
+        <item itemvalue="Application.SubsetSum" />
+        <item itemvalue="Application.JosephsProblem" />
+        <item itemvalue="Application.TowerOfHanoi" />
+        <item itemvalue="Application.GenerateSubset" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6186d70-70e8-4d69-b261-21c0ce452eb9" name="Changes" comment="" />
+      <created>1753328667224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1753328667224</updated>
+    </task>
+    <servers />
+  </component>
+</project>
