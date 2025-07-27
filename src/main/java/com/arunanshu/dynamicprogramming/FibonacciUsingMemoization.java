@@ -6,7 +6,7 @@ public class FibonacciUsingMemoization {
     public static void main(String[] args) {
         int[] arr=new int[10];
         Arrays.fill(arr,-1);
-        System.out.println(fibanacci(arr,7));
+        System.out.println(fibanacci(arr,8));
     }
     public static int fibanacci(int[] dp,int n ){
         if (dp[n]==-1){
