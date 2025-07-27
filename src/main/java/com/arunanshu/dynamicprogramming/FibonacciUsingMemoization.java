@@ -2,7 +2,7 @@ package com.arunanshu.dynamicprogramming;
 
 import java.util.Arrays;
 //q1
-public class FibonacciUsingDp {
+public class FibonacciUsingMemoization {
     public static void main(String[] args) {
         int[] arr=new int[10];
         Arrays.fill(arr,-1);

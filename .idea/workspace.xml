@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186d70-70e8-4d69-b261-21c0ce452eb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/dynamicprogramming/FibonacciUsingDp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/dynamicprogramming/FibonacciusingTabulation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/arunanshu/dynamicprogramming/FibonacciUsingDp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/dynamicprogramming/FibonacciUsingMemoization.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FibonacciUsingDp.executor": "Run",
+    "Application.FibonacciusingTabulation.executor": "Run",
     "Application.GenerateSubset.executor": "Run",
     "Application.JosephsProblem.executor": "Run",
     "Application.NaturalNumberSum.executor": "Run",
@@ -52,9 +54,22 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FibonacciUsingDp">
+  <component name="RunManager" selected="Application.FibonacciusingTabulation">
     <configuration name="FibonacciUsingDp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arunanshu.dynamicprogramming.FibonacciUsingDp" />
+      <module name="dsa" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.arunanshu.dynamicprogramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FibonacciusingTabulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arunanshu.dynamicprogramming.FibonacciusingTabulation" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
@@ -105,26 +120,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TowerOfHanoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arunanshu.recurrsion.TowerOfHanoi" />
-      <module name="dsa" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.arunanshu.recurrsion.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciusingTabulation" />
         <item itemvalue="Application.FibonacciUsingDp" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.SubsetSum" />
         <item itemvalue="Application.JosephsProblem" />
-        <item itemvalue="Application.TowerOfHanoi" />
       </list>
     </recent_temporary>
   </component>
