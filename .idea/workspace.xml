@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6186d70-70e8-4d69-b261-21c0ce452eb9" name="Changes" comment="" />
+    <list default="true" id="e6186d70-70e8-4d69-b261-21c0ce452eb9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/dynamicprogramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "iarunanshu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/iarunanshu/Data-Structure-and-Algo.git",
+    "accountId": "b790f129-25b2-4ce2-b68c-2c82d36ff16f"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -31,26 +46,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.FibonacciUsingDp.executor": "Run",
-    "Application.FibonacciusingTabulation.executor": "Run",
-    "Application.GenerateSubset.executor": "Run",
-    "Application.JosephsProblem.executor": "Run",
-    "Application.NaturalNumberSum.executor": "Run",
-    "Application.PalindromeCheck.executor": "Run",
-    "Application.Permutation.executor": "Run",
-    "Application.PrintNto1.executor": "Run",
-    "Application.RopeCuttingProblem.executor": "Run",
-    "Application.SubsetSum.executor": "Run",
-    "Application.SumOfDigits.executor": "Run",
-    "Application.TowerOfHanoi.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FibonacciUsingDp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FibonacciusingTabulation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenerateSubset.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JosephsProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestCommonSubsequence.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NaturalNumberSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PalindromeCheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Permutation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNto1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RopeCuttingProblem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SubsetSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TowerOfHanoi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FibonacciusingTabulation">
+}</component>
+  <component name="RunManager" selected="Application.LongestCommonSubsequence">
     <configuration name="FibonacciUsingDp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arunanshu.dynamicprogramming.FibonacciUsingDp" />
       <module name="dsa" />
@@ -77,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JosephsProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arunanshu.recurrsion.JosephsProblem" />
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arunanshu.dynamicprogramming.LongestCommonSubsequence" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arunanshu.recurrsion.*" />
+          <option name="PATTERN" value="com.arunanshu.dynamicprogramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCommonSubsequence" />
         <item itemvalue="Application.FibonacciusingTabulation" />
         <item itemvalue="Application.FibonacciUsingDp" />
         <item itemvalue="Application.Permutation" />
         <item itemvalue="Application.SubsetSum" />
-        <item itemvalue="Application.JosephsProblem" />
       </list>
     </recent_temporary>
   </component>
