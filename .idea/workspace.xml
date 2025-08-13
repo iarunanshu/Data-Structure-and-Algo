@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6186d70-70e8-4d69-b261-21c0ce452eb9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/hashing/PairWithGivenSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/hashing/UnionOfTwoUnsortedArrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/arunanshu/hashing/SubArrayWithZeroSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/arunanshu/hashing/SubArrayWithZeroSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +66,7 @@
     "Application.PrintNto1.executor": "Run",
     "Application.RopeCuttingProblem.executor": "Run",
     "Application.SelectionSort.executor": "Run",
+    "Application.SubArrayWithZeroSum.executor": "Run",
     "Application.SubsetSum.executor": "Run",
     "Application.SumOfDigits.executor": "Run",
     "Application.TowerOfHanoi.executor": "Run",
@@ -75,7 +75,7 @@
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.PairWithGivenSum">
+  <component name="RunManager" selected="Application.SubArrayWithZeroSum">
     <configuration name="CountDistinctAndFrequencyElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.arunanshu.hashing.CountDistinctAndFrequencyElement" />
       <module name="dsa" />
@@ -128,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.arunanshu.sorting.SelectionSort" />
+    <configuration name="SubArrayWithZeroSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.arunanshu.hashing.SubArrayWithZeroSum" />
       <module name="dsa" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.arunanshu.sorting.*" />
+          <option name="PATTERN" value="com.arunanshu.hashing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SubArrayWithZeroSum" />
         <item itemvalue="Application.PairWithGivenSum" />
         <item itemvalue="Application.IntersectionOfTwoUnsortedArray" />
         <item itemvalue="Application.CountDistinctAndFrequencyElement" />
         <item itemvalue="Application.CountDistinctElement" />
-        <item itemvalue="Application.SelectionSort" />
       </list>
     </recent_temporary>
   </component>
